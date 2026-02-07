@@ -1,4 +1,8 @@
 # CostPlusSetup
+
+# Screenshot
+![Screenshot of CostPlus](./CostPlusSetup/costplus.png)
+
 This is simple software for manufacturer who wants to not only automate costing of product but also wants to keep historical data.
 this is free version of software.
 read terms and conditions before use. thanks !!!
